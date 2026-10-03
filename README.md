@@ -21,5 +21,8 @@ This is a simple graphical user interface (GUI) calculator developed using MATLA
 3. Run the app and enter the required numbers.
 4. Click the desired operation button to calculate the result.
 
+## Screenshot
+! [MATLAB Calculator] (calculator.png)
+
 ## Author
 Suvam Maity
